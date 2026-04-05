@@ -20,7 +20,7 @@ The dataset includes:
 * Physical attributes (age, height, weight)
 * Technical skills (passing, dribbling, tackling, etc.)
 * Performance metrics
-* Target variable: **Player Value**
+* Target variable: **Value**
 
 ---
 
